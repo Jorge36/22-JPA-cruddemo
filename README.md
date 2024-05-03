@@ -1,4 +1,4 @@
-Course Spring Boot 3, Spring 6 & Hibernate for Beginners on Udemy
+Course Spring Boot 3, Spring 6 & Hibernate for Beginners on Udemy (section 4)
 
 REST CRUD (create, read, update and delete an employee) with Hibernate and/or Java Persistence API 
 
